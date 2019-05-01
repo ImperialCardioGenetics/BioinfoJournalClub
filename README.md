@@ -1,4 +1,4 @@
-# Bioinformatics Journal Club by Imperial Cardiovascular Genetics
+# Bioinformatics Journal Club 
 
 
 What? Biweekly bioinformatics journal club espeically but not limited on genomics data modeling and analysis hosted by Imeprial Cardiovascular Genetics Group
