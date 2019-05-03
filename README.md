@@ -9,5 +9,5 @@ How? Each time one would present and lead a discussion/learning on a bioinformat
 
 | Date       | Location       | Presenter | Paper |
 |------------|----------------|-----------|-------|
-| 2019-05-08 | ICTEM Room 324 |           |       |
+| May 8th 4pm | ICTEM Room 324 |   Chulin        |  https://academic.oup.com/bioinformatics/article/32/23/3543/2525612     |
 |            |                |           |       |
