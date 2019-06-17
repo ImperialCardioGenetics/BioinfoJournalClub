@@ -1,9 +1,9 @@
 # Bioinformatics Journal Club 
 
 
-What? Biweekly bioinformatics journal club espeically but not limited on genomics data modeling and analysis hosted by Imeprial Cardiovascular Genetics Group
+This a biweekly bioinformatics journal club espeically but not limited on genomics data modeling and analysis hosted by Imeprial Cardiovascular Genetics Group
 
-How? Each time one would present and lead a discussion/learning on a bioinformatics paper (< 1hr). 
+Each time one would present and lead a discussion/learning on a bioinformatics paper (< 1hr). 
 
 ## Schedule
 
